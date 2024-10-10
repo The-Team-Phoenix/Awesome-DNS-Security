@@ -48,6 +48,7 @@ DNS is a core internet protocol that translates human-readable domain names into
 ## DNS Tools
 - **[dnstwist](https://github.com/elceef/dnstwist)** - Identify phishing domains and potential typo-squatting domains by generating variations of a domain name.
 - **[dnsdiag](https://github.com/farrokhi/dnsdiag)** - Perform DNS diagnostics and health checks.
+- **[DNS Reaper](https://github.com/punk-security/dnsReaper)** - An advanced DNS misconfiguration scanner designed for DevSecOps, with support for cloud infrastructure.
 - **[DNSx](https://github.com/projectdiscovery/dnsx)** - Powerful DNS toolkit for resolving, brute-forcing, and DNS recon.
 - **[Fierce](https://github.com/mschwager/fierce)** - DNS reconnaissance tool to find hidden servers.
 - **[DSAT](https://github.com/shamimrezasohag/DSAT-DNSSecurityAnalysisTool)** - Security analysis of DNS configurations for multiple domains.
