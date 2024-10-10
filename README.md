@@ -64,6 +64,10 @@ DNS is a core internet protocol that translates human-readable domain names into
 - **[Case study on DNS anomaly with Zeek](https://sensorfleet.com/2020/09/29/Using-Zeek-to-find-persistent-threats-by-monitoring-DNS.html)** - Using Zeek to find persistent threats by monitoring DNS anomalies.
 - **[Suricata](https://suricata.io/)** - Open-source IDS/IPS with built-in DNS logging and analysis capabilities.
 - **[Passive DNS](https://www.dnsdb.info/)** - Query historical DNS records to understand domain resolution patterns.
+- **[Grafana Teamplate on DNS](https://grafana.com/grafana/dashboards/17171-dns-insights-dns-threat-analysis/)** - DNS analysis template of Grafana uses the prometheus data source.
+- **[ELK DNS tunneling](https://www.elastic.co/guide/en/security/current/dns-tunneling.html)**
+- **[Microsoft DNS analytics with ELK](https://www.elastic.co/docs/current/integrations/microsoft_dnsserver)**
+- **[DNS analysis with Graylog](https://graylog.org/post/security-log-monitoring-and-dns-request-analysis/)**
 
 ---
 
