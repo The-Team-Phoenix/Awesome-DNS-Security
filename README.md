@@ -32,8 +32,8 @@ DNS is a core internet protocol that translates human-readable domain names into
 - **[35C3 - Domain Name System](https://www.youtube.com/watch?v=I7060fqa-B8)** - A detailed video lecture on DNS.
 - **[Let's hand write DNS messages](https://routley.io/posts/hand-writing-dns-messages/)** - Learn how DNS messages are structured at a low level.
 - **[DNS for Rocket Scientists](http://www.zytrax.com/books/dns/)** - A comprehensive guide to mastering DNS.
-- **[Introduction to DNS](https://www.youtube.com/watch?v=dl-C6cBoRg4)** - An introduction to DNS.
-- **[Everything about DNS](https://www.youtube.com/watch?v=27r4Bzuj5NQ)** - Explaination on how DNS works.
+- **[Introduction to DNS](https://www.youtube.com/watch?v=dl-C6cBoRg4)** - An introduction to DNS by David Bombal.
+- **[Everything about DNS](https://www.youtube.com/watch?v=27r4Bzuj5NQ)** - Explanation on how DNS works by ByteByteGo.
 
 ---
 
