@@ -53,6 +53,7 @@ DNS is a core internet protocol that translates human-readable domain names into
 - **[Fierce](https://github.com/mschwager/fierce)** - DNS reconnaissance tool to find hidden servers.
 - **[DSAT](https://github.com/shamimrezasohag/DSAT-DNSSecurityAnalysisTool)** - Security analysis of DNS configurations for multiple domains.
 - **[Internet.nl](https://internet.nl/)** - Check whether a domain/website uses modern Internet Standards.
+- **[IntoDNS.AI](https://intodns.ai/)** - AI-powered DNS & email security scanner: SPF, DKIM, DMARC, BIMI, MTA-STS, DNSSEC validation, 40+ blacklist checks, and email deliverability scoring with AI-generated fixes. Free, no signup.
 - **[DNS Inspect](https://dnsinspect.com/)** - A free web tool that checks your domain's servers for common DNS and mail errors and generates a report explaining how to fix them.
 - **[dnssec](https://github.com/themalwarenews/dnssec)** - Performs DNS security audits and takes a DNS IP as user input, which could act as a DNS security scanner.
 - **[EDUdig](https://edudig.se/)** - Web based DNS troubleshooting tool
