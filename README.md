@@ -101,6 +101,7 @@ DNS is a core internet protocol that translates human-readable domain names into
 ---
 
 ## DNSSEC (DNS Security Extensions)
+- **[DotMoose DNSSEC Checker](https://dotmoose.com/dnssec-checker/)** - Free browser-based lookup of DS and DNSKEY records and the validating resolver's AD flag; no account required.
 - **[DNSViz](https://dnsviz.net/)** - A graphical tool for visualizing DNSSEC configurations and issues.
 - **[OpenDNSSEC](https://www.opendnssec.org/)** - A DNSSEC key and zone management tool.
 - **[PowerDNS DNSSEC](https://doc.powerdns.com/authoritative/dnssec/index.html)** - PowerDNS setup guide for enabling DNSSEC.
