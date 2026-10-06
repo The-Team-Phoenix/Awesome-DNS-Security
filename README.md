@@ -56,6 +56,7 @@ DNS is a core internet protocol that translates human-readable domain names into
 - **[DNS Inspect](https://dnsinspect.com/)** - A free web tool that checks your domain's servers for common DNS and mail errors and generates a report explaining how to fix them.
 - **[dnssec](https://github.com/themalwarenews/dnssec)** - Performs DNS security audits and takes a DNS IP as user input, which could act as a DNS security scanner.
 - **[EDUdig](https://edudig.se/)** - Web based DNS troubleshooting tool
+- **[IntoDNS.ai](https://intodns.ai)** - AI-powered DNS & email security scanner. Checks SPF, DKIM, DMARC, DNSSEC, MTA-STS, BIMI, and 40+ blacklists with AI-powered fix suggestions. Free API, no signup required.
     
 ---
 
