@@ -62,6 +62,7 @@ DNS is a core internet protocol that translates human-readable domain names into
 
 ## DNS Monitoring and Analysis
 - **[DNS Notify](https://dnsnotify.com/)** - Hosted outside-in monitoring for authoritative DNS records, nameservers, served TLS certificates, and public domain-registration changes.
+- **[SolidPing](https://github.com/fclairamb/solidping)** - Self-hostable (AGPL-3.0) uptime monitor with DNS record checks that alert when answers differ from expected values or from a captured baseline, plus DNSBL and domain-expiry checks.
 - **[dnstop](https://github.com/measurement-factory/dnstop)** - Monitor DNS traffic for analysis and statistics.
 - **[Zeek (formerly Bro)](https://zeek.org/)** - Network analysis framework with a DNS analyzer for security monitoring.
 - **[Case study on DNS anomaly with Zeek](https://sensorfleet.com/2020/09/29/Using-Zeek-to-find-persistent-threats-by-monitoring-DNS.html)** - Using Zeek to find persistent threats by monitoring DNS anomalies.
