@@ -137,6 +137,7 @@ DNS is a core internet protocol that translates human-readable domain names into
 ## Threat Intelligence
 - **[SecurityTrails](https://securitytrails.com/)** - Comprehensive threat intelligence platform with DNS and IP intelligence.
 - **[DNSDB](https://www.farsightsecurity.com/solutions/dnsdb/)** - Passive DNS threat intelligence platform by Farsight Security.
+- **[WhoisFreaks DNS History](https://whoisfreaks.com/tools/dns/history/lookup)** - Timestamped history of A, AAAA, MX, NS, SOA, TXT, CNAME and SPF records for a domain, useful for tracing infrastructure changes during an investigation. Free web lookup; API access is credit-based.
 
 ---
 
