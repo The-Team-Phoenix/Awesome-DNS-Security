@@ -56,11 +56,13 @@ DNS is a core internet protocol that translates human-readable domain names into
 - **[DNS Inspect](https://dnsinspect.com/)** - A free web tool that checks your domain's servers for common DNS and mail errors and generates a report explaining how to fix them.
 - **[dnssec](https://github.com/themalwarenews/dnssec)** - Performs DNS security audits and takes a DNS IP as user input, which could act as a DNS security scanner.
 - **[EDUdig](https://edudig.se/)** - Web based DNS troubleshooting tool
+- **[IntoDNS.ai](https://intodns.ai)** - AI-powered DNS & email security scanner. Checks SPF, DKIM, DMARC, DNSSEC, MTA-STS, BIMI, and 40+ blacklists with AI-powered fix suggestions. Free API, no signup required.
 - **[DomScan](https://domscan.net)** - Domain intelligence with DNS, WHOIS, SSL/TLS audit, typosquatting detection and email security (SPF/DKIM/DMARC) checks, plus an API and MCP server.
     
 ---
 
 ## DNS Monitoring and Analysis
+- **[DNS Notify](https://dnsnotify.com/)** - Hosted outside-in monitoring for authoritative DNS records, nameservers, served TLS certificates, and public domain-registration changes.
 - **[dnstop](https://github.com/measurement-factory/dnstop)** - Monitor DNS traffic for analysis and statistics.
 - **[Zeek (formerly Bro)](https://zeek.org/)** - Network analysis framework with a DNS analyzer for security monitoring.
 - **[Case study on DNS anomaly with Zeek](https://sensorfleet.com/2020/09/29/Using-Zeek-to-find-persistent-threats-by-monitoring-DNS.html)** - Using Zeek to find persistent threats by monitoring DNS anomalies.
@@ -102,6 +104,7 @@ DNS is a core internet protocol that translates human-readable domain names into
 ---
 
 ## DNSSEC (DNS Security Extensions)
+- **[DotMoose DNSSEC Checker](https://dotmoose.com/dnssec-checker/)** - Free browser-based lookup of DS and DNSKEY records and the validating resolver's AD flag; no account required.
 - **[DNSViz](https://dnsviz.net/)** - A graphical tool for visualizing DNSSEC configurations and issues.
 - **[OpenDNSSEC](https://www.opendnssec.org/)** - A DNSSEC key and zone management tool.
 - **[PowerDNS DNSSEC](https://doc.powerdns.com/authoritative/dnssec/index.html)** - PowerDNS setup guide for enabling DNSSEC.
