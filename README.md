@@ -131,6 +131,7 @@ DNS is a core internet protocol that translates human-readable domain names into
 - **[Sub-domain Take over](https://www.hackerone.com/hackerone-community-blog/guide-subdomain-takeovers)** - A Guide To Subdomain Takeovers.
 - **[DNS Evaluation](https://blog.apnic.net/2024/07/01/dns-evolution/)** - History of DNS by Geoff Huston.
 - **[DNS infrastructure resilience](https://github.com/shamimrezasohag/conf-talk-slides/blob/main/slides/my_12_years_journey_of_DNS_Security_btNOG.pdf)** - A case study of 12 years of DNS infrastructure reformation.
+- **[VPS Provider Network Report](https://vpshostreview.com/vps-provider-network-report)** - Weekly check of about 115 hosting companies' own websites for DNSSEC, plus IPv6, TLS 1.3, HTTP/2 and HTTP/3 on sites not served through a CDN.
 
 ---
 
