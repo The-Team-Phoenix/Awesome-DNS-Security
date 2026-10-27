@@ -107,6 +107,7 @@ DNS is a core internet protocol that translates human-readable domain names into
 - **[DNSViz](https://dnsviz.net/)** - A graphical tool for visualizing DNSSEC configurations and issues.
 - **[OpenDNSSEC](https://www.opendnssec.org/)** - A DNSSEC key and zone management tool.
 - **[PowerDNS DNSSEC](https://doc.powerdns.com/authoritative/dnssec/index.html)** - PowerDNS setup guide for enabling DNSSEC.
+- **[APIVerve DNSSEC Checker](https://apiverve.com/marketplace/dnsseccheck)** - REST API that validates a domain's DNSSEC configuration and returns whether it is enabled and valid, its DNSKEY, DS and NSEC record counts, and any validation errors as JSON. Free plan available.
 
 ---
 
