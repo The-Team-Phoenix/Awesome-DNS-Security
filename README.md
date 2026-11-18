@@ -137,6 +137,7 @@ DNS is a core internet protocol that translates human-readable domain names into
 ## Threat Intelligence
 - **[SecurityTrails](https://securitytrails.com/)** - Comprehensive threat intelligence platform with DNS and IP intelligence.
 - **[DNSDB](https://www.farsightsecurity.com/solutions/dnsdb/)** - Passive DNS threat intelligence platform by Farsight Security.
+- **[Whatoblock](https://whatoblock.com/)** - IP threat intelligence from a honeypot network, with hourly blocklists that can be exported as DNS RPZ.
 
 ---
 
