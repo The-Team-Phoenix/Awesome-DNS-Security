@@ -57,7 +57,7 @@ DNS is a core internet protocol that translates human-readable domain names into
 - **[dnssec](https://github.com/themalwarenews/dnssec)** - Performs DNS security audits and takes a DNS IP as user input, which could act as a DNS security scanner.
 - **[EDUdig](https://edudig.se/)** - Web based DNS troubleshooting tool
 - **[IntoDNS.ai](https://intodns.ai)** - AI-powered DNS & email security scanner. Checks SPF, DKIM, DMARC, DNSSEC, MTA-STS, BIMI, and 40+ blacklists with AI-powered fix suggestions. Free API, no signup required.
-- **[InboxShield](https://inbox-checker.appwrite.network/)** - Zero-dependency MIT CLI and free online 6-phase email DNS & deliverability auditor: checks recursive SPF 10-lookup limits (with free flattener), 24 DKIM selectors, RFC 7489 DMARC syntax, NS/SOA consistency, MX redundancy, MTA-STS, BIMI, and 5 DNSBLs. Includes the [2026 Top 60 SaaS Email Auth Benchmark](https://zcoldwater.github.io/inboxshield-cli/top-60-saas-email-authentication-benchmark-2026.html).
+- **[InboxShield](https://inbox.shipbastion.com/)** - Zero-dependency MIT CLI and free online 6-phase email DNS & deliverability auditor: checks recursive SPF 10-lookup limits (with free flattener), 24 DKIM selectors, RFC 7489 DMARC syntax, NS/SOA consistency, MX redundancy, MTA-STS, BIMI, and 5 DNSBLs. Includes the [2026 Top 60 SaaS Email Auth Benchmark](https://zcoldwater.github.io/inboxshield-cli/top-60-saas-email-authentication-benchmark-2026.html).
     
 ---
 
